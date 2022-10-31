@@ -1,0 +1,13 @@
+testing/
+resume/
+venv/
+env/
+logs/
+output.csv
+*.yaml
+*.log
+*.docx
+*.pdf
+debug.log
+TODO
+questions.json
